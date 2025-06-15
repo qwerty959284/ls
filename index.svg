@@ -1,0 +1,5 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <path d="M50 5L10 30V70L50 95L90 70V30L50 5Z" fill="#2D3436"/>
+  <path d="M50 35L30 50V70L50 85L70 70V50L50 35Z" fill="#E84393"/>
+  <text x="50" y="65" font-family="Arial" font-size="30" font-weight="bold" text-anchor="middle" fill="white">MK</text>
+</svg>
